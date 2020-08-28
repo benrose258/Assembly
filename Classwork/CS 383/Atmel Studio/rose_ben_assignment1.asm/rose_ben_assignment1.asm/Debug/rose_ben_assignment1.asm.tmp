@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\Debug\rose_ben_assignment1.asm.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>rose_ben_assignment1.asm.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>rose_ben_assignment1.asm.map</FILE>
+  <FILE>rose_ben_assignment1.asm.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <test_values><FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</FILE><LINE>159</LINE></test_values>
+  <start><FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</FILE><LINE>29</LINE></start>
+  <question1><FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</FILE><LINE>36</LINE></question1>
+  <r1_current_max><FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</FILE><LINE>107</LINE></r1_current_max>
+  <r2_current_max><FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</FILE><LINE>111</LINE></r2_current_max>
+  <r3_current_max><FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</FILE><LINE>115</LINE></r3_current_max>
+  <r4_current_max><FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</FILE><LINE>119</LINE></r4_current_max>
+  <question2><FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</FILE><LINE>53</LINE></question2>
+  <r1_is_even><FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</FILE><LINE>129</LINE></r1_is_even>
+  <r2_is_even><FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</FILE><LINE>135</LINE></r2_is_even>
+  <r3_is_even><FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</FILE><LINE>141</LINE></r3_is_even>
+  <r4_is_even><FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</FILE><LINE>147</LINE></r4_is_even>
+  <question3><FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</FILE><LINE>74</LINE></question3>
+  <question4><FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</FILE><LINE>86</LINE></question4>
+  <question5><FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</FILE><LINE>96</LINE></question5>
+  <exit><FILE>C:\Users\Ben Rose\Dropbox\Atmel Studio\rose_ben_assignment1.asm\rose_ben_assignment1.asm\main.asm</FILE><LINE>178</LINE></exit>
+ </LABELS>
+</ASSEMBLER_INFO>
